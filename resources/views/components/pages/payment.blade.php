@@ -71,6 +71,19 @@
                             <div class="flex items-center">
                                 <input type="radio" name="payment_method" id="paypal" class="h-4 w-4 text-blue-600 focus:ring-blue-500">
                                 <label for="paypal" class="ml-3 block text-sm font-medium text-gray-700">
+                                    E-wallet
+                                </label>
+                            </div>
+                            <i class="fab fa-cc-paypal text-2xl text-blue-600"></i>
+                        </div>
+                    </div>
+
+                    <!-- PayPal Option -->
+                    <div class="border border-gray-200 rounded-lg p-4 mb-4">
+                        <div class="flex items-center justify-between">
+                            <div class="flex items-center">
+                                <input type="radio" name="payment_method" id="paypal" class="h-4 w-4 text-blue-600 focus:ring-blue-500">
+                                <label for="paypal" class="ml-3 block text-sm font-medium text-gray-700">
                                     PayPal
                                 </label>
                             </div>
@@ -132,6 +145,7 @@
                         <div>
                             <label class="block text-sm font-medium text-gray-700 mb-1">Country</label>
                             <select class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                                <option>Philippines</option>
                                 <option>United States</option>
                                 <option>Japan</option>
                                 <option>United Kingdom</option>
@@ -178,15 +192,15 @@
                     <div class="space-y-2 mb-4">
                         <div class="flex justify-between">
                             <span class="text-gray-600">Base Price</span>
-                            <span class="font-medium">$1,200.00</span>
+                            <span class="font-medium">₱1,200.00</span>
                         </div>
                         <div class="flex justify-between">
                             <span class="text-gray-600">Taxes & Fees</span>
-                            <span class="font-medium">$85.00</span>
+                            <span class="font-medium">₱85.00</span>
                         </div>
                         <div class="flex justify-between">
                             <span class="text-gray-600">Service Charge</span>
-                            <span class="font-medium">$45.00</span>
+                            <span class="font-medium">₱45.00</span>
                         </div>
                     </div>
 
@@ -195,7 +209,7 @@
                     <!-- Total -->
                     <div class="flex justify-between items-center mb-6">
                         <span class="text-lg font-bold text-gray-800">Total</span>
-                        <span class="text-2xl font-bold text-blue-600">$1,330.00</span>
+                        <span class="text-2xl font-bold text-blue-600">₱1,330.00</span>
                     </div>
 
                     <!-- Security Badges -->
@@ -209,7 +223,7 @@
                     <!-- Pay Button -->
                     <button class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg transition duration-200 flex items-center justify-center space-x-2">
                         <i class="fas fa-lock"></i>
-                        <span>Pay Now $1,330.00</span>
+                        <span>Pay Now ₱1,330.00</span>
                     </button>
 
                     <!-- Additional Info -->
