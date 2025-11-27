@@ -34,3 +34,11 @@ Route::get('/dashboard/package/gyeongbokgung', function () {
 Route::get('/dashboard/package/universal', function () {
     return view('components.pages.package-universal');
 })->name('admin.universal');
+
+Route::get('/dashboard/payment', function () {
+    return view('components.pages.payment');
+})->name('admin.payment');
+
+Route::get('/dashboard/payment/receipt', function () {
+    return view('components.pages.receipt');
+})->name('admin.receipt');
