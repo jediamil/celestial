@@ -29,6 +29,12 @@
                     </li>
                     <li>
                         <a href="/dashboard/packages" class="text-white hover:text-pink-200 transition duration-300 font-medium relative group">
+                            Trip Package
+                            <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-pink-200 transition-all duration-300 group-hover:w-full"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/dashboard/plan" class="text-white hover:text-pink-200 transition duration-300 font-medium relative group">
                             Plan Your Trip
                             <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-pink-200 transition-all duration-300 group-hover:w-full"></span>
                         </a>

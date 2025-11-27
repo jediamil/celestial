@@ -42,3 +42,8 @@ Route::get('/dashboard/payment', function () {
 Route::get('/dashboard/payment/receipt', function () {
     return view('components.pages.receipt');
 })->name('admin.receipt');
+
+
+Route::get('/dashboard/plan', function () {
+    return view('components.pages.plan');
+})->name('admin.plan');

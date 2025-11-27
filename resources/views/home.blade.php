@@ -207,7 +207,7 @@
 
 <body class="bg-cover bg-center bg-fixed" style="background-image: url('{{ asset('images/BG OF HOME, SIGN IN, SIGN UP, DESTI PAGES.jpg') }}');">
     <header>
-        <nav class="navbar bg-transparent fixed w-full z-50 backdrop-blur-md border-b border-white/20">
+        {{-- <nav class="navbar bg-transparent fixed w-full z-50 backdrop-blur-md border-b border-white/20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between items-center h-16">
             <!-- Logo -->
@@ -290,7 +290,10 @@
             </div>
         </div>
     </div>
-</nav>
+</nav> --}}
+
+
+<x-partials.navbar />
 
 <script>
     // Mobile menu toggle functionality
