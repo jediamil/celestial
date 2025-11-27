@@ -223,7 +223,7 @@
                     <!-- Pay Button -->
                     <button class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg transition duration-200 flex items-center justify-center space-x-2">
                         <i class="fas fa-lock"></i>
-                        <span>Pay Now ₱1,330.00</span>
+                        <span>Pay Now ₱11,330.00</span>
                     </button>
 
                     <!-- Additional Info -->
