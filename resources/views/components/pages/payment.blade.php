@@ -192,15 +192,15 @@
                     <div class="space-y-2 mb-4">
                         <div class="flex justify-between">
                             <span class="text-gray-600">Base Price</span>
-                            <span class="font-medium">₱11,200.00</span>
+                            <span class="font-medium">₱70,200.00</span>
                         </div>
                         <div class="flex justify-between">
                             <span class="text-gray-600">Taxes & Fees</span>
-                            <span class="font-medium">₱85.00</span>
+                            <span class="font-medium">₱885.00</span>
                         </div>
                         <div class="flex justify-between">
                             <span class="text-gray-600">Service Charge</span>
-                            <span class="font-medium">₱45.00</span>
+                            <span class="font-medium">₱845.00</span>
                         </div>
                     </div>
 
@@ -209,7 +209,7 @@
                     <!-- Total -->
                     <div class="flex justify-between items-center mb-6">
                         <span class="text-lg font-bold text-gray-800">Total</span>
-                        <span class="text-2xl font-bold text-blue-600">₱11,330.00</span>
+                        <span class="text-2xl font-bold text-blue-600">₱70,330.00</span>
                     </div>
 
                     <!-- Security Badges -->
@@ -223,7 +223,7 @@
                     <!-- Pay Button -->
                     <button class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg transition duration-200 flex items-center justify-center space-x-2">
                         <i class="fas fa-lock"></i>
-                        <span>Pay Now ₱11,330.00</span>
+                        <span>Pay Now ₱70,330.00</span>
                     </button>
 
                     <!-- Additional Info -->
