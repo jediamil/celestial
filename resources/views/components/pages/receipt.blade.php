@@ -127,7 +127,7 @@
                             <div class="space-y-2">
                                 <div class="flex justify-between">
                                     <span class="text-gray-600">Base Package (3 persons)</span>
-                                    <span class="font-medium">₱1,200.00</span>
+                                    <span class="font-medium">₱10,200.00</span>
                                 </div>
                                 <div class="flex justify-between">
                                     <span class="text-gray-600">Taxes & Government Fees</span>
@@ -146,7 +146,7 @@
                             <div class="border-t border-gray-200 mt-4 pt-4">
                                 <div class="flex justify-between items-center">
                                     <span class="text-xl font-bold text-gray-800">Total Paid</span>
-                                    <span class="text-2xl font-bold text-blue-600">₱1,210.00</span>
+                                    <span class="text-2xl font-bold text-blue-600">₱11,210.00</span>
                                 </div>
                             </div>
                         </div>

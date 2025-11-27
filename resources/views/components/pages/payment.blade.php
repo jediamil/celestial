@@ -192,7 +192,7 @@
                     <div class="space-y-2 mb-4">
                         <div class="flex justify-between">
                             <span class="text-gray-600">Base Price</span>
-                            <span class="font-medium">₱1,200.00</span>
+                            <span class="font-medium">₱11,200.00</span>
                         </div>
                         <div class="flex justify-between">
                             <span class="text-gray-600">Taxes & Fees</span>
@@ -209,7 +209,7 @@
                     <!-- Total -->
                     <div class="flex justify-between items-center mb-6">
                         <span class="text-lg font-bold text-gray-800">Total</span>
-                        <span class="text-2xl font-bold text-blue-600">₱1,330.00</span>
+                        <span class="text-2xl font-bold text-blue-600">₱11,330.00</span>
                     </div>
 
                     <!-- Security Badges -->
