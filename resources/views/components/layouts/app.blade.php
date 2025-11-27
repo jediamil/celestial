@@ -19,7 +19,7 @@
         
         <x-partials.navbar />
 
-        <div class="pt-20  w-full flex justify-center">
+        <div class="pt-20  w-full flex justify-center p-10">
             <div class="w-full max-w-7xl p-5 md:p-0">
                 {{ $slot }}
             </div>
